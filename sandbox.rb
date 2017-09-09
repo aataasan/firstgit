@@ -5,4 +5,5 @@ class Sandbox
     puts "Hello, universe"
   end
 	
+  # whatever comment
 end
