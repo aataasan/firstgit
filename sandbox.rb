@@ -1,7 +1,7 @@
 class Sandbox
 
   def main
-    puts "Hello, sunshine"
+    puts "Hello, moon"
   end
 	
 end
